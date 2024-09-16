@@ -34,3 +34,28 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## "Info Arquives"
+
+Info Archives é uma aplicação web simples de CRUD (Create, Read, Update, Delete) desenvolvida com Next.js e MongoDB, que permite aos usuários gerenciar "arquivos" com título e descrição. Este projeto foi desenvolvido para ser uma solução prática e eficiente para armazenamento de informações simples, utilizando tecnologias modernas para garantir escalabilidade e performance.
+
+## Funcionalidades
+
+**Adicionar arquivos:** Crie novos arquivos com um título e uma descrição.
+**Listar arquivos:** Visualize todos os arquivos armazenados no banco de dados.
+**Editar arquivos:** Modifique o título e a descrição de arquivos já existentes.
+**Excluir arquivos:** Remova arquivos do banco de dados permanentemente.
+
+## Tecnologias utilizadas
+
+**Next.js:** Framework React para renderização no lado do servidor e criação de aplicações web modernas.
+**MongoDB:** Banco de dados NoSQL utilizado para armazenar os arquivos com título e descrição.
+**MongoDB Compass:** Ferramenta gráfica utilizada para gerenciar o banco de dados local.
+
+## Pré-requisitos
+
+Antes de rodar o projeto localmente, você precisará ter instalado:
+
+Node.js v14 ou superior
+MongoDB
+Git
